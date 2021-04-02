@@ -1,4 +1,4 @@
-### Hi there 👋 I'm ann0see from Germany
+### Hi there 👋 I'm ann0see
 
 
 - I’m currently working on [Jamulus](https://jamulus.io) and doing some maintenance work there.
